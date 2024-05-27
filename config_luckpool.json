@@ -16,8 +16,8 @@
 		"timeout": 150
 	}
 	],
-	"user": "RYUSNHZKzUbMdWzAcnPiDg694mB2pTDhsS.mi-a2-lite",
-	"pass": "x",
+	"user": "RYUSNHZKzUbMdWzAcnPiDg694mB2pTDhsS.bizon2-1",
+	"pass": "hybrid",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
