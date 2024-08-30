@@ -31,12 +31,6 @@ cat << EOF > ~/ccminer/start2.sh
 EOF
 chmod +x start2.sh
 
-cat << EOF > ~/ccminer/startsolo.sh
-#!/bin/sh
-~/ccminer/ccminer -c ~/ccminer/config_luckpool_solo.json
-EOF
-chmod +x start2.sh
-
 cat << EOF > ~/ccminer/start3.sh
 #!/bin/sh
 ~/ccminer/ccminer -c ~/ccminer/config_zerg_party.json
